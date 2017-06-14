@@ -65,7 +65,7 @@ share_js: true
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: '3216ce05dce9ae2ef650d9ce3ab56b78'
 
 # Google Analytics
 ga_track_id: 'UA-100636483-1'            # Format: UA-xxxxxx-xx
